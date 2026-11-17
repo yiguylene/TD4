@@ -19,9 +19,8 @@ Le projet est actuellement en phase de **conception et de modélisation** (réda
 * **GitHub :** Versionnage du code source et centralisation de la documentation (README).
 
 ## 🔗 Liens utiles
-* [Espace Confluence CampusConnect](#) *(insère ici le lien vers ton espace Confluence)*
-* [Documentation fonctionnelle & technique (Diagrammes UML Draw.io)](#) *(insère le lien vers la page Confluence correspondante)*
-
+* [Espace Confluence CampusConnect](https://efrei-team-y.atlassian.net/wiki/x/sYAhAQ)
+* [Documentation technique (UML)](https://efrei-team-y.atlassian.net/wiki/x/EYAkAQ)
 ## 🤝 Consignes de contribution
 Ce projet est réalisé dans un cadre académique. Pour contribuer :
 1. Créez une branche pour votre fonctionnalité.
